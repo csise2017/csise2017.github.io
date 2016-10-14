@@ -12,6 +12,10 @@ body {
     height: 100%;
 }
 
+a {
+    color: orange;
+}
+
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
